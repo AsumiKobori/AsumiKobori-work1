@@ -1,16 +1,4 @@
 @charset "UTF-8";
-body,
-h1,
-ul,
-li,
-div {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    color: black;
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ",
-        "Meiryo", sans-serif;
-}
 
 .work1 div {
     width: 300px;
